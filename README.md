@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andymaple1 - Andy Nguyen
-- 👀 I’m interested in games.
+- 👀 I’m interested in games!
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on coding 
 - 📫 How to reach me: andy.nguyen@students.mq.edu.au
